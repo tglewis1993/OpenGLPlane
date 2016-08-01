@@ -126,8 +126,8 @@ int _tmain(int argc, char* argv[]) {
 
 		mainClock->stop();
 		mainClock->reportTimingData();
-		
 		mainClock->release();
+
 	}
 	
 	// Shut down COM and exit
