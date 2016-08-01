@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  TextureLoader.cpp
+  ShaderLoader.cpp
+  helper_functions.cpp
+  gldemo.cpp
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(229): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(231): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(370): warning C4305: '+=' : truncation from 'double' to 'float'
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(375): warning C4305: '-=' : truncation from 'double' to 'float'
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(380): warning C4305: '-=' : truncation from 'double' to 'float'
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(406): warning C4305: '+=' : truncation from 'double' to 'float'
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(418): warning C4305: '+=' : truncation from 'double' to 'float'
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(423): warning C4305: '-=' : truncation from 'double' to 'float'
+f:\documents\university coursework\third year uni shit\usb\13042467 -real time rendering coursework 1\simulation\simulation\gldemo.cpp(428): warning C4305: '-=' : truncation from 'double' to 'float'
+  Generating Code...
+CoreStructures.lib(GUClock.obj) : warning LNK4204: 'F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+CoreStructures.lib(GUObject.obj) : warning LNK4204: 'F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+CoreStructures.lib(GUPivotCamera.obj) : warning LNK4204: 'F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+CoreStructures.lib(GUMatrix4.obj) : warning LNK4204: 'F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+CoreStructures.lib(GUMemory.obj) : warning LNK4204: 'F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+CoreStructures.lib(GUVector4.obj) : warning LNK4204: 'F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+CoreStructures.lib(GUViewFrustum.obj) : warning LNK4204: 'F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  gldemo.vcxproj -> F:\Documents\University Coursework\Third year uni shit\USB\13042467 -Real Time Rendering Coursework 1\Simulation\Simulation\Debug\gldemo.exe
