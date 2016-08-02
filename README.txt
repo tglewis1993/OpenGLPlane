@@ -5,6 +5,8 @@ Build Information:
 This project was originally developed using Visual Studio 2013. At the moment, the project has not been built into an independant executable, so other versions of VS(Such as
 2015 Community) have to be run using a compatibility mode. This can be done by changing the Platform Toolset in the Project Properties. Executable building is still a WIP.
 
+The gldemo.sln file located in Simulation/Simulation is the VS project file to run.
+
 Instructions:
 
 When ran through VS, the main window will start, as well as a comand prompt window. The command prompt window will have instructions on how to control the scene
@@ -24,4 +26,5 @@ Freeglut requires the use of functions with no arguements to provide services su
 by different scopes. I did band all this global information into a singular structure to try and neaten the code up a bit, but it essentially works the same is if 
 they were all individual variables. Secondly I would add more objects to at least one of the scenes. An idea I had would be to add a falling sphere in mode 5,
 The Reverse Water Droplet mode. The animation of the plane would only begin when the sphere and plane collided. This would show interaction between objects in the scene,
-effectively working as primitive physics.
+effectively working as primitive physics. I would also like to expand the pixel shader to include lighting. I would like to introduce a Phong Blinn shader model to provide
+shadows. 

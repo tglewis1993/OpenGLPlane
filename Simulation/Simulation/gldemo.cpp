@@ -140,9 +140,10 @@ void reportInstructions()
 	// Print application instructions to the command prompt window opened alongside the main window.
 
 	cout << "\n\n\n\n";
-	cout << "\t\t\t\t|| Press button 1-6 to change the simulation mode	||" << endl;
-	cout << "\t\t\t\t|| Press P to Pause and Reset				||" << endl;
-	cout << "\t\t\t\t|| Press X to Erratically change scene 4		||" << endl;
+	cout << "\t\t\t\t|| Press button 1-6 to change the simulation mode		||" << endl;
+	cout << "\t\t\t\t|| Press P to Pause and Reset					||" << endl;
+	cout << "\t\t\t\t|| Press X to Erratically change scene 4			||" << endl;
+	cout << "\t\t\t\t|| Hold Right Click and move your mouse to rotate the scene     ||" << endl;
 	cout << "\n\n\n\n";
 
 }
