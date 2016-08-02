@@ -1,5 +1,10 @@
 OPEN GL FLAT PLANE ANIMATION - by Tom Lewis
 
+Shader Loaders and Texture Loaders were written by our tutor Paul Angel.
+This project makes use of freeGLUT, glew and GU CoreStructures Library. 
+
+This project is STRICTLY non-profit and was produced for my coursework at the University of South Wales.
+
 Build Information:
 
 This project was originally developed using Visual Studio 2013. At the moment, the project has not been built into an independant executable, so other versions of VS(Such as
